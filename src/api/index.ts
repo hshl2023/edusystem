@@ -1,0 +1,6 @@
+export { apiClient } from './client'
+export { authApi } from './auth'
+export { studentsApi } from './students'
+export { teachersApi } from './teachers'
+export { coursesApi } from './courses'
+export { gradesApi } from './grades'
